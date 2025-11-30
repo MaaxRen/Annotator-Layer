@@ -1,6 +1,6 @@
 # Annotator Layer
 
-This repository hosts the preprint and codebase for the paper:
+This repo hosts the preprint and codebase for the paper:
 
 **_Learning Moral Diversity: Modelling Individual Perspectives in Moral Classification of Texts_**
 

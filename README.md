@@ -10,3 +10,6 @@ This repo hosts the preprint and codebase for the paper:
 The full codebase (data processing, models, training scripts, and analysis notebooks) is currently being prepared and will be uploaded to this repository soon.
 
 Stay tuned for updates.
+
+For any questions or correspondence regarding the work, please contact:
+**Email:** yi.ren@adelaide.edu.au

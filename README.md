@@ -1,2 +1,12 @@
-# Annotator-Layer
-This repository hosts the preprint for Learning Moral Diversity: Modelling Individual Perspectives in Moral Classification of Texts. The accompanying codebase is being prepared and will be released in this repository after tidying and documentation.
+# Annotator Layer
+
+This repository hosts the preprint and codebase for the paper:
+
+**_Learning Moral Diversity: Modelling Individual Perspectives in Moral Classification of Texts_**
+
+- **Preprint (PDF):** `preprint.pdf`  
+- An arXiv link will be added once available.
+
+The full codebase (data processing, models, training scripts, and analysis notebooks) is currently being prepared and will be uploaded to this repository soon.
+
+Stay tuned for updates.
